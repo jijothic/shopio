@@ -1,8 +1,6 @@
 # React Shopping Cart
 Simple React Shopping Cart without using Redux
 
-
-
 ## Setup
 
 Goto the project folder and install required dependencies:
